@@ -11,6 +11,10 @@ class php_class_aleix {
  function prat() {
        echo "aleix prat"
  }
+ 
+ function tet() {
+       echo "tete"
+ }
 }
 // En el constructor BaseClass
 $obj = new php_class_aleix();
