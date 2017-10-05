@@ -17,7 +17,7 @@ class php_class_aleix {
  }
  
   function fantasma() {
-      echo "ola"
+      echo "adeu";
  }
 }
 // En el constructor BaseClass
