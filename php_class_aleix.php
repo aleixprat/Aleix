@@ -4,19 +4,20 @@ class php_class_aleix {
        echo "En el constructor BaseClass\n";
    }
    function peix() {
-       echo "aleix peix"
+       echo "aleix peix";
    
        }
 
  function prat() {
-       echo "aleix prat"
+       echo "aleix prat";
  }
  
  function tet() {
-       echo "tete"
+       echo "tete";
  }
  
   function fantasma() {
+      echo "ola"
  }
 }
 // En el constructor BaseClass
