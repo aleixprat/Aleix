@@ -15,6 +15,9 @@ class php_class_aleix {
  function tet() {
        echo "tete"
  }
+ 
+  function fantasma() {
+ }
 }
 // En el constructor BaseClass
 $obj = new php_class_aleix();
